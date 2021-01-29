@@ -1,7 +1,9 @@
 # iv1201-auth
 
-#Setup:
+# Setup:
+
 ```npm install```
 
-#Build & Run:
+# Build & Run:
+
 ```tsc && node ./```
